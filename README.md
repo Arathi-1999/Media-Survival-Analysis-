@@ -108,15 +108,32 @@ Digital Readiness Analysis
 # 🔍 Key Insights
 1️⃣ Print circulation declined by ~25% between 2019 and 2024.
 
-2️⃣ High circulation cities do not always generate the highest ad revenue.
+Copies printed dropped from 44.1M (2019) → 33.1M (2024) (consistent 5–6% decline per year).
 
-3️⃣ Several cities show high digital readiness but low digital engagement, indicating untapped opportunity.
+2️⃣ Annual waste fell from 4.5M (2019) → 3.5M (2024), a 22% reduction.
 
-4️⃣ Significant print waste exists due to overproduction.
-Print is shrinking → 25% decline in circulation (2019–2024).
+However, Delhi shows no improvement, wasting ~450k copies every year.
 
-Ad revenue is unstable, though per-copy revenue is improving.
+3️⃣ Real Estate (+33%) and Automobile (+40%) recovered strongly.
 
-Digital pilot shows weak adoption despite heavy investment.
+FMCG (–29%) and Government Ads (–17%) declined steadily.
 
-High readiness cities (Kanpur, Lucknow, Varanasi) are not fully engaged → gap is opportunity.
+Patna, Jaipur, and Lucknow together contribute ~35% of total ad revenue.
+
+
+3️⃣ Digital Readiness vs Engagement
+High readiness but low engagement cities: Kanpur, Bhopal, Patna, Ranchi.
+
+→ These are priority markets for digital re-launch.
+
+4️⃣ High readiness cities (Kanpur, Lucknow, Varanasi) are not fully engaged → gap is opportunity.
+
+Lucknow (₹23/copy), Patna (₹21.2/copy), Ranchi (₹19/copy) lead in monetization efficiency.
+
+Larger cities like Delhi and Varanasi underperform despite scale.
+
+Top circulation cities (Jaipur, Varanasi, Mumbai, Delhi, Kanpur) together make up 60% of total volume but are less profitable.
+Smaller cities like Lucknow, Patna, Ranchi are more profitable.
+
+
+
