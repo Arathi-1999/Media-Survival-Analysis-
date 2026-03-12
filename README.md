@@ -113,8 +113,11 @@ Selected cities best suited for Phase 1 of digital transformation.
 ## Ad Revenue Insights
 ![Dashboard](Images/Ad_Revenue.png)
 
+## City Performance Analysis 
+![Dashboard](Images/City_Performance.png)
+
 ## Digital Readiness Analysis
-![Dashboard](images/digital.png)
+![Dashboard](Images/Digital_Pilot.png)
 
 
 # 🔍 Key Insights
