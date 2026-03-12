@@ -136,30 +136,34 @@ Top circulation cities (Jaipur, Varanasi, Mumbai, Delhi, Kanpur) together make u
 Smaller cities like Lucknow, Patna, Ranchi are more profitable.
 
 # 🚀 Recommendations
+
 1️⃣ Phased Digital Transition
 
 **▫️**Phase 1 → Kanpur, Varanasi, Bhopal (high readiness + urgency).
 
 **▫️**Phase 2 → Medium readiness but high engagement cities.
 **▫️**Phase 3 → Lower readiness markets (focus on awareness).
-Ad Revenue Revival
 
-2️⃣ FMCG → Client re-engagement, case studies, competitive packages.
+2️⃣ Ad Revenue Revival
 
-Government → Local partnerships, transparent performance reporting.
-Boosting Engagement
+**▫️**FMCG → Client re-engagement, case studies, competitive packages.
 
-3️⃣ WhatsApp bulletins & alerts
+**▫️**Government → Local partnerships, transparent performance reporting.
+
+3️⃣Boosting Engagement
+
+**▫️** WhatsApp bulletins & alerts
 Mobile-first e-papers with offline mode
 Interactive polls, community forums, and video integration
-Monetization Models
 
-4️⃣ Print + Digital bundles (family plans)
-Loyalty rewards with local businesses
+4️⃣Monetization Models
+
+**▫️**Print + Digital bundles (family plans)
+**▫️**Loyalty rewards with local businesses
 Pay-per-article and micro-subscriptions
-Regional Trust Building
 
-5️⃣ Collaborations with local journalists and influencers
-City-specific digital editions
-Community events & town halls
+5️⃣Regional Trust Building
 
+**▫️**Collaborations with local journalists and influencers
+**▫️**City-specific digital editions
+**▫️**Community events & town halls
