@@ -44,28 +44,28 @@ The objective of this project is to:
 
 The dataset contains multiple tables including:
 
-. fact_print_sales → Copies printed, sold, and circulated
+**▫️** fact_print_sales → Copies printed, sold, and circulated
 
-. fact_ad_revenue → Advertising revenue by category and city
+**▫️** fact_ad_revenue → Advertising revenue by category and city
 
-. fact_city_readiness → Internet, smartphone, and literacy rates
+**▫️** fact_city_readiness → Internet, smartphone, and literacy rates
 
-. fact_digital_pilot → Engagement metrics from digital pilot
+**▫️** fact_digital_pilot → Engagement metrics from digital pilot
 
-. dim_city → City details
+**▫️** dim_city → City details
 
-. dim_ad_category → Advertisement categories
+**▫️** dim_ad_category → Advertisement categories
 
 
 # 🛠️ Tools & Technologies
 
-. Power BI → Dashboard & data visualization
+**▫️** Power BI → Dashboard & data visualization
 
-. SQL → Ad-hoc analysis queries
+**▫️** SQL → Ad-hoc analysis queries
 
-. Power Query → Data cleaning & transformation
+**▫️** Power Query → Data cleaning & transformation
 
-. DAX → Measures and KPIs
+**▫️** DAX → Measures and KPIs
 
 # 📈 Key Analysis
 
@@ -108,6 +108,8 @@ Digital Readiness Analysis
 # 🔍 Key Insights
 1️⃣ Print circulation declined by ~50% between 2019 and 2024.
 
-2️⃣High circulation cities do not always generate the highest ad revenue.
-3️⃣Several cities show high digital readiness but low digital engagement, indicating untapped opportunity.
-4️⃣Significant print waste exists due to overproduction.
+2️⃣ High circulation cities do not always generate the highest ad revenue.
+
+3️⃣ Several cities show high digital readiness but low digital engagement, indicating untapped opportunity.
+
+4️⃣ Significant print waste exists due to overproduction.
