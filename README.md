@@ -108,10 +108,10 @@ Selected cities best suited for Phase 1 of digital transformation.
 # 📊 Dashboard Preview
 
 ## Print Performance Dashboard
-![Dashboard](images/Print Performance.png)
+![Dashboard](images/print.png)
 
 ## Ad Revenue Insights
-![Dashboard](Dashboard images/Ad revenue.png)
+![Dashboard](images/ad_revenue.png)
 
 ## Digital Readiness Analysis
 ![Dashboard](images/digital.png)
