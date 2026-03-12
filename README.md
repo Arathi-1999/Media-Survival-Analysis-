@@ -106,10 +106,17 @@ Digital Readiness Analysis
 
 
 # 🔍 Key Insights
-1️⃣ Print circulation declined by ~50% between 2019 and 2024.
+1️⃣ Print circulation declined by ~25% between 2019 and 2024.
 
 2️⃣ High circulation cities do not always generate the highest ad revenue.
 
 3️⃣ Several cities show high digital readiness but low digital engagement, indicating untapped opportunity.
 
 4️⃣ Significant print waste exists due to overproduction.
+Print is shrinking → 25% decline in circulation (2019–2024).
+
+Ad revenue is unstable, though per-copy revenue is improving.
+
+Digital pilot shows weak adoption despite heavy investment.
+
+High readiness cities (Kanpur, Lucknow, Varanasi) are not fully engaged → gap is opportunity.
