@@ -108,6 +108,14 @@ Selected cities best suited for Phase 1 of digital transformation.
 # 📊 Dashboard Preview
 
 ****Print Performance****
+## Print Performance Dashboard
+![Dashboard](images/print.png)
+
+## Ad Revenue Insights
+![Dashboard](images/ad_revenue.png)
+
+## Digital Readiness Analysis
+![Dashboard](images/digital.png)
 
 ****Advertising Insights****
 
@@ -173,11 +181,14 @@ Patna, Jaipur, and Lucknow together contribute ~35% of total ad revenue.
 **4️⃣Monetization Models**
 
 **▫️**Print + Digital bundles (family plans)
+
 **▫️**Loyalty rewards with local businesses
 Pay-per-article and micro-subscriptions
 
 **5️⃣Regional Trust Building**
 
 **▫️**Collaborations with local journalists and influencers
+
 **▫️**City-specific digital editions
+
 **▫️**Community events & town halls
