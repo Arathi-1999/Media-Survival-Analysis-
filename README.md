@@ -1,14 +1,14 @@
 # Media-Survival-Analysis-
 
- ****📰 Bharat Herald Analysis****
+# 📰 Bharat Herald Analysis
 
-****📌 Project Overview****
+# 📌 Project Overview
 
 **Bharat Herald** is a legacy newspaper organization operating across five Indian states. Over the last few years, the company has faced a significant decline in print circulation due to the rapid shift toward digital news consumption.
 
 This project analyzes **operational and financial data from 2019–2024** to understand the reasons behind declining circulation, evaluate advertising performance, and identify opportunities for digital transformation.
 
-****🎯 Problem Statement****
+# 🎯 Problem Statement
 
 Between 2019 and 2024, Bharat Herald's print circulation dropped from **1.2 million daily copies to under 560,000**. 
 
@@ -25,7 +25,7 @@ Multiple city bureaus were shut down.
 
 The management team has initiated a strategic analysis to determine the causes of decline and explore opportunities for digital transformation.
 
-****🧑‍💼 Business Objective****
+# 🧑‍💼 Business Objective
 
 The objective of this project is to:
 
@@ -44,7 +44,7 @@ The objective of this project is to:
 **▫️**Identify high-potential cities for digital relaunch.
 
 
-****📊 Datasets****
+# 📊 Datasets
 
 The dataset contains multiple tables including:
 
@@ -61,7 +61,7 @@ The dataset contains multiple tables including:
 **▫️** dim_ad_category → Advertisement categories
 
 
-****🛠️ Tools & Technologies****
+ # 🛠️ Tools & Technologies
 
 **▫️** Power BI → Dashboard & data visualization
 
@@ -71,7 +71,7 @@ The dataset contains multiple tables including:
 
 **▫️** DAX → Measures and KPIs
 
-****📈 Key Analysis****
+# 📈 Key Analysis
 
 **1️⃣ Print Circulation Trends**
 
@@ -105,7 +105,7 @@ Calculated advertising revenue per circulated copy.
 
 Selected cities best suited for Phase 1 of digital transformation.
 
-****📊 Dashboard Preview****
+# 📊 Dashboard Preview
 
 ****Print Performance****
 
@@ -116,7 +116,7 @@ Selected cities best suited for Phase 1 of digital transformation.
 ****Digital Readiness Analysis****
 
 
-****🔍 Key Insights****
+# 🔍 Key Insights
 1️⃣ Print circulation declined by ~25% between 2019 and 2024.
 
  Copies printed dropped from 44.1M (2019) → 33.1M (2024) (consistent 5–6% decline per year).
@@ -147,7 +147,7 @@ Patna, Jaipur, and Lucknow together contribute ~35% of total ad revenue.
 7️⃣ Lucknow (₹23/copy), Patna (₹21.2/copy), Ranchi (₹19/copy) lead in monetization efficiency.
 
 
-****🚀 Recommendations****
+# 🚀 Recommendations
 
 **1️⃣ Phased Digital Transition**
 
