@@ -150,6 +150,8 @@ Patna, Jaipur, and Lucknow together contribute ~35% of total ad revenue.
 
 7️⃣ Lucknow (₹23/copy), Patna (₹21.2/copy), Ranchi (₹19/copy) lead in monetization efficiency.
 
+## 📎Live Interactive Dashboard 
+**https://app.powerbi.com/view?r=eyJrIjoiODIxNjc5MmItYWIzNS00NTZjLTk2NzYtYjE3ZDE0Y2JkMjQyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9**
 
 # 🚀 Recommendations
 
